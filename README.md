@@ -1,4 +1,3 @@
-[image](https://user-images.githubusercontent.com/97726768/149484784-c0420977-b8d2-489c-913c-137d22ddfb87.png)
 - 👋 Hey there, I’m Felipe 
 - 🌱 I’m currently learning HTML5, CSS3, JavaScript
 - 📫 How to reach me feliperochamod@gmail.com
