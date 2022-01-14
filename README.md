@@ -1,3 +1,4 @@
+-  Seeking to turn dreams into reality through programming. 
 - 👋 Hey there, I’m Felipe 
 - 🌱 I’m currently learning HTML5, CSS3, JavaScript
 - 📫 How to reach me feliperochamod@gmail.com
